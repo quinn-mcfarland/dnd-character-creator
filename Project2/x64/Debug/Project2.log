@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(134,9): error C2065: 'gButtons': undeclared identifier
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(476,16): error C2511: 'void LTexture::render(int,int)': overloaded member function not found in 'LTexture'
+  C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(45,7):
+  see declaration of 'LTexture'
+  
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(479,32): error C2597: illegal reference to non-static member 'LTexture::mWidth'
+  C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(61,6):
+  see declaration of 'LTexture::mWidth'
+  
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(479,40): error C2597: illegal reference to non-static member 'LTexture::mHeight'
+  C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(62,6):
+  see declaration of 'LTexture::mHeight'
+  
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(482,6): error C2065: 'clip': undeclared identifier
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(484,18): error C2065: 'clip': undeclared identifier
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(485,18): error C2065: 'clip': undeclared identifier
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(488,27): error C2597: illegal reference to non-static member 'LTexture::mTexture'
+  C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(60,15):
+  see declaration of 'LTexture::mTexture'
+  
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(488,37): error C2065: 'clip': undeclared identifier
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(566,30): error C2065: 'BUTTON_WIDTH': undeclared identifier
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(576,30): error C2065: 'BUTTON_HEIGHT': undeclared identifier
+C:\Users\lilmc\OneDrive\Documents\repos\csc5_spr2024\Project2\main.cpp(608,2): error C2065: 'gButtonSpriteSheetTexture': undeclared identifier
